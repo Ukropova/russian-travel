@@ -9,7 +9,7 @@
   src: url(/fonts/Inter-Regular.woff2)format(woff2);
   src: url(/fonts/Inter-Black.woff)format(woff);
   font-weight: 900;
-  Font-style: Black;
+  font-style: black;
   color: #FFFFFF;
 }
 
@@ -19,5 +19,5 @@
   src: url(/fonts/Inter-Regular.woff)format(woff);
   font-weight: 400;
   color: #FFFFFF;
-  Font-style: Regular;
+  font-style: regular;
 }
