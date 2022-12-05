@@ -2,14 +2,14 @@
   grid-column: 2;
   grid-row: 2;
   font-weight: 400;
-  font-Size: 18px;
+  font-size: 18px;
   line-height: 1.63;
   margin: 0;
   margin-bottom: 26px;
 }
 @media (max-width: 768px){    
   .place__paragraphe {
-    font-Size: 16px;
+    font-size: 16px;
     margin-bottom: 25px;  
   }
 }
@@ -18,7 +18,7 @@
     grid-column: 1;
     grid-row: 4;
     font-weight: 400;
-    font-Size: 18px;
+    font-size: 18px;
     line-height: 1.63;
     margin-left: 16px;
     margin-bottom: 26px;
