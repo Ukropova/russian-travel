@@ -2,16 +2,16 @@
   font-weight: 400;
   font-size: 30px;
   line-height: 1.2;
-  max-Width: 640px;
-  max-Height: 72px;
+  max-width: 640px;
+  max-height: 72px;
   margin: 0 auto;
   margin-top: 32px;
   margin-bottom: 64px;
-  font-style: Regular;
+  font-style: regular;
 }
 @media (max-width: 425px){    
   .lead__subtitle{
-    font-Size: 16px;
+    font-size: 16px;
     line-height: 1.25;
     max-width: 288px;
     max-height: 40px;
