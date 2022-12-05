@@ -5,22 +5,23 @@
   font-size: 72px;
   line-height: 1.05;
   margin: 0;
- }
- @media (max-width: 768px){            
+}
+
+@media (max-width: 768px) {
   .place__title {
     font-size: 42px;
     line-height: 1.1;
   }
 }
-@media (max-width: 425px){    
+
+@media (max-width: 425px) {
   .place__title {
     grid-column: 1;
     grid-row: 1;
     font-size: 32px;
     line-height: 1.05;
-    margin-left:16px;
-    max-width: 288px;    
-    margin-bottom: 32px;    
-   }
+    margin-left: 16px;
+    max-width: 288px;
+    margin-bottom: 32px;
+  }
 }
-  
