@@ -1,9 +1,9 @@
 .intro__list {
-  Font-Weight: 400;
-  Font-style: Mixed;
-  Font-size: 12px;
-  Line-height: 18px;
-  Line-height: 124%;
+  font-Weight: 400;
+  font-style: Mixed;
+  font-size: 12px;
+  line-height: 18px;
+  line-height: 124%;
   padding: 0;
   list-style: none;
 }
