@@ -1,0 +1,24 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1184px;
+  margin: 0;
+  position: relative;
+}
+@media (max-width: 1024px){
+  .header {
+    margin: 28px 48px 48px 48px;
+  }
+}
+@media (max-width: 768px){        
+  .header {
+    margin-left: 24px;
+    margin-right: 24px;
+}
+}
+@media (max-width: 425px){          
+  .header {
+    margin: 16px 16px 0 16px;
+  }
+}

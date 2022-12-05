@@ -1,0 +1,16 @@
+.place__link {
+  font-Weight: 400;
+  font-Size: 18px;
+  Line-height: 22px;
+  cursor: pointer;
+  color: #FFFFFF;
+}
+@media (max-width: 425px){    
+  .place__link {  
+    font-Weight: 400;
+    font-Size: 18px;
+    Line-height: 22px;
+    cursor: pointer;
+    color: #FFFFFF;  
+  }
+}

@@ -1,0 +1,16 @@
+.place__url-heading {
+  font-Weight: 400;
+  font-Size: 12px;
+  Line-height: 12px;
+  letter-spacing: 2 px;
+  color: #AAAAAA;
+}
+@media (max-width: 425px){
+  .place__url-heading {
+    font-Weight: 400;
+    font-Size: 12px;
+    Line-height: 12px;
+    letter-spacing: 2 px;
+    color: #AAAAAA;
+  }
+}

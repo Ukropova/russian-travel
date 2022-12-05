@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Inter';
+  src: url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
+  color: #FFFFFF;
+
+}
+@font-face {
+  font-family: 'Inter', sans-serif;
+  src: url(/fonts/Inter-Regular.woff2)format(woff2);
+  src: url(/fonts/Inter-Black.woff)format(woff);
+  font-weight: 900;
+  Font-style: Black;
+  color: #FFFFFF;
+}
+
+@font-face {
+  font-family: 'Inter', sans-serif;
+  src: url(/fonts/Inter-Regular.woff2)format(woff2);
+  src: url(/fonts/Inter-Regular.woff)format(woff);
+  font-weight: 400;
+  color: #FFFFFF;
+  Font-style: Regular;
+}
