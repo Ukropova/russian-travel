@@ -11,7 +11,7 @@
   position: relative;
 }
 .cover:hover {
-  Opacity: 80%;
+  opacity: 80%;
   cursor: pointer;
 }
 @media (max-width: 1024px){
