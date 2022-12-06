@@ -5,7 +5,7 @@
   letter-spacing: 2 px;
   color: #AAAAAA;
 }
-@media (max-width: 425px){
+@media (max-width: 750px){
   .place__url-heading {
     font-weight: 400;
     font-size: 12px;

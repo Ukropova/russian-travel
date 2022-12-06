@@ -3,7 +3,7 @@
   grid-row: 1;
   align-self: end;
 }
-@media (max-width: 425px){        
+@media (max-width: 750px){        
   .place__website {
     grid-column: 1;
     grid-row: 2;

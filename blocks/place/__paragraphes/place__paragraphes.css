@@ -1,3 +1,10 @@
 .place__paragraphes {
   align-self: start;
 }
+
+@media (max-width: 750px) {
+  .place__paragraphe {
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
