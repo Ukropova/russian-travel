@@ -6,3 +6,8 @@
   cursor: pointer;
   color: #FFFFFF;
   }
+  .place__link:hover{
+    opacity: 80%;
+    cursor: pointer;
+  }
+

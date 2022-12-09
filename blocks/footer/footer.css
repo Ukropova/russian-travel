@@ -3,12 +3,17 @@
   justify-content: space-between;
   align-items: center;
   margin-bottom: 24px;
+  padding-left: 16px;
+    margin: 0 auto;
 }
+
 
 @media (max-width: 750px){   
   .footer {
     flex-direction: column;
-    margin-left: 16px;
+    
     align-items: flex-start;
+       
+    max-width: 320px;  
   }
 }
