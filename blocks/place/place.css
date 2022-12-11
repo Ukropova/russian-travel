@@ -22,7 +22,6 @@
 @media (max-width: 970px){  
   .place {
     grid-template-columns: 340px 352px;
-    grid-template-rows: repeat(2, max-content);
     column-gap: 28px;
     margin-bottom: 73px;  
   }

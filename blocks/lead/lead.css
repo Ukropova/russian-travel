@@ -7,16 +7,20 @@
 }
 @media (max-width: 1024px){    
   .lead {    
-    margin: 48px 48px 92px 48px;    
+    margin-top: 48px;  
+    margin-left: 48px;
+    margin-right: 48px;
   }
 }
 @media (max-width: 768px){
   .lead{
-   margin: 48px 0 88px 0;
+    margin-bottom: 88px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 @media (max-width: 425px){        
   .lead{
-    margin: 48px 0 64px 0;
-  }
+    margin-bottom: 64px;
+    }
 }
