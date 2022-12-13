@@ -28,10 +28,7 @@
 @media (max-width: 450px) {
   .cover {
     min-height: 200px;
-  }
-
-  .cover:hover {
-    opacity: 80%;
-    cursor: pointer;
+    margin-top: 66px;
+  margin-bottom: 64px;
   }
 }

@@ -20,3 +20,8 @@
   background-repeat: no-repeat;
   opacity: 30%;
 }
+.cover__overlay:hover::before {
+  opacity: 80%;
+  cursor: pointer;
+  transition: 0.5s;
+}

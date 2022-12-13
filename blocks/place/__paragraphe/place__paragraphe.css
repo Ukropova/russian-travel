@@ -1,5 +1,6 @@
 .place__paragraphe {
   padding: 0;
+  margin: 0;
   grid-column: 2;
   grid-row: 2;
   font-family: 'Inter', "Arial", sans-serif;

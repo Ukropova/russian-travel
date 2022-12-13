@@ -30,7 +30,7 @@
   .place {    
     grid-template-columns: 100%;
     grid-template-rows: repeat(auto-fit, max-content);
-    gap: 50px;
-    margin-bottom: 64px;
+    gap: 32px;
+    margin-bottom: 50px;
   }
 }
